@@ -61,7 +61,7 @@ global.socialm = "GitHub: bosilu09" //ur github or insta name
 global.location = "SriLanka, Colombo" //ur location
 
 //bot bomdy 
-global.owner = ['94754816965']
+global.owner = ['94754816965,94752891693']
 global.ownertag = '94754816965' //ur tag number
 global.botname = 'Inovatech Bot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
@@ -73,10 +73,10 @@ global.packname = "Inovatech Bost\n\n\n\n\n\n\n\n\n\n\n🌟🌟🌟 " //ur stick
 global.author = "Bosilu" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/image/inovatech.png") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/image/inovatech.png") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/image/inovatech.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/image/inovatech.png") //ur thumb pic
 
 //damtabase
 global.premium = ['94754816965,94752891693'] //ur premium numbers
